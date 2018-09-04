@@ -11,7 +11,8 @@
 
 - 移动端
     -  **开发模式**：前后端分离
-    -  **前端框架**：VUE、vueRouter
+    -  **前端框架**：VUE、vueRouter、vant
+    -  **前后通信**:axios
     -  **css预处理**：less
     - **构建工具**：webpack
 
